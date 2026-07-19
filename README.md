@@ -115,9 +115,9 @@ Engineering-Campus-Placement/
 ---
 
 ## 👩‍💻Made by - 
-Bhawna Adhikari
-Divya Verma
-Ishvita Rana
+Bhawna Adhikari - Model Deveolpment
+Divya Verma - Exploratory Data Analysis
+Ishvita Rana - Data Preprocessing
 
 
 
